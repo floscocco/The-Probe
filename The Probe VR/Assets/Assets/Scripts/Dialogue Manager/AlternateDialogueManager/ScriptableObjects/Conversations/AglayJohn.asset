@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa0823cf110e3941abb69d7fc64a1b5, type: 3}
+  m_Name: AglayJohn
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 5b2a1bcdec1755f46bc48324251d155c, type: 2}
+  speakerRight: {fileID: 11400000, guid: 5b2a1bcdec1755f46bc48324251d155c, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: ed7e552418d8152428057fe0bdea3e0d, type: 2}
+    text: "Esta es la primera l\xEDnea."
+  - character: {fileID: 11400000, guid: 5b2a1bcdec1755f46bc48324251d155c, type: 2}
+    text: Y yo, John, te contesto.
+  - character: {fileID: 11400000, guid: 5b2a1bcdec1755f46bc48324251d155c, type: 2}
+    text: "Y digo dos di\xE1logos seguidos."
+  - character: {fileID: 11400000, guid: ed7e552418d8152428057fe0bdea3e0d, type: 2}
+    text: "Si vos dec\xEDs dos cosas seguidas..."
+  - character: {fileID: 11400000, guid: ed7e552418d8152428057fe0bdea3e0d, type: 2}
+    text: "Yo tambi\xE9n y no se habla m\xE1s despu\xE9s de esto."
